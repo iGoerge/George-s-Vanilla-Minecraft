@@ -10,6 +10,12 @@ I chose version **1.21.4** because it's the most recent version that ensures com
 
 ---
 
+## 🎈 Info
+
+This project is a curated modpack for Minecraft 1.21.4 using resources freely available from [Modrinth](https://modrinth.com/)
+
+---
+
 ## 🔧 What’s Included?
 
 ### ✨ Shaders  
@@ -103,12 +109,6 @@ I chose version **1.21.4** because it's the most recent version that ensures com
 7. **Launch Minecraft using Fabric**, then tweak settings to taste!
 
 ---
-
-## 📄 License & Disclaimer
-
-This project is a curated modpack for Minecraft 1.21.4 using resources freely available from [Modrinth](https://modrinth.com/). Each mod, plugin, shader, and resource pack is credited to its original author and linked accordingly.
-
-Distribution or bundling of third-party content should respect each author’s license terms. You can find licensing details on each project’s Modrinth page.
 
 > **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 
